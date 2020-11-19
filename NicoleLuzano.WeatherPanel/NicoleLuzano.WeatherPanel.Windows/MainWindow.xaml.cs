@@ -46,7 +46,7 @@ namespace NicoleLuzano.WeatherPanel.Windows
             lblPressure.Content = "Pressure :" + area.Currently.Pressure;
             lblWindspeed.Content = "Windspeed :" + area.Currently.Windspeed;
             lblWindBearing.Content = "WindBearing :" + area.Currently.WindBearing;
-            lblSummary1.Content = "Summary :" + area.Currently.Summary1;
+            lblSummary1.Content = "Summary :" + area.Currently.Summary;
         }
     }
 }
