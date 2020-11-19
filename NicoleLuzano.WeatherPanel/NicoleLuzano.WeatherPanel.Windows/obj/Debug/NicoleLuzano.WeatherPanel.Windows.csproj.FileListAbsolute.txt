@@ -16,3 +16,5 @@ C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.
 C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\bin\Debug\RestSharp.dll
 C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\bin\Debug\RestSharp.xml
 C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\obj\Debug\NicoleLuzano.WeatherPanel.Windows.csproj.CopyComplete
+C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\bin\Debug\Newtonsoft.Json.xml

@@ -1,4 +1,5 @@
-﻿using RestSharp;
+﻿using Newtonsoft.Json;
+using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,7 +37,16 @@ namespace NicoleLuzano.WeatherPanel.Windows
 
             var content = response.Content;
 
+            var area = JsonConvert.DeserializeObject<WeatherArea>(content);
+
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
+            lblSummary.Content = area.Currently.Summary;
+            lblTemperature.Content = "Temperature :" + area.Currently.Temperature;
+            lblHumidity.Content = "Humidity :" + area.Currently.Humidity;
+            lblPressure.Content = "Pressure :" + area.Currently.Pressure;
+            lblWindspeed.Content = "Windspeed :" + area.Currently.Windspeed;
+            lblWindBearing.Content = "WindBearing :" + area.Currently.WindBearing;
+            lblSummary1.Content = "Summary :" + area.Currently.Summary1;
         }
     }
 }
