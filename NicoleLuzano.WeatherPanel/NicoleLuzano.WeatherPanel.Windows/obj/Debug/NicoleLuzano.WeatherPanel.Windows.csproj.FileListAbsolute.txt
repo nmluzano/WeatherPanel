@@ -13,3 +13,6 @@ C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.
 C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\obj\Debug\NicoleLuzano.WeatherPanel.Windows.csproj.CoreCompileInputs.cache
 C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\obj\Debug\NicoleLuzano.WeatherPanel.Windows.exe
 C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\obj\Debug\NicoleLuzano.WeatherPanel.Windows.pdb
+C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\bin\Debug\RestSharp.dll
+C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\bin\Debug\RestSharp.xml
+C:\Users\Nicole\Desktop\SHS\WeatherPanel\NicoleLuzano.WeatherPanel\NicoleLuzano.WeatherPanel.Windows\obj\Debug\NicoleLuzano.WeatherPanel.Windows.csproj.CopyComplete
